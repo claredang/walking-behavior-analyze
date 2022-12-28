@@ -1,0 +1,23 @@
+DATA Information
+
+eg: 1-r means Record 1-Right, 1-l means Record 1-Left
+
+Files can be found in the data/ folder of this repository
+
+More detailed information can also be found in the report in table format
+
+Record      Age     Gender          Height  Weight (kg)     Injury          Path Condition      Our calculated %        Apple calculated %
+1	        22	    Female	        5’0”	42	            No	            Flat	            4.5	                    2.06
+2	        25	    Male	        5’9”	80	            No	            Flat	            0.11	                3.14
+3	        23	    Male	        5’7”	65	            No	            Flat	            1.3	                    1.91
+4	        22	    Female	        5’3”	58	            No	            Flat	            3.5	                    0.79
+5	        21	    Male	        5’8”	95	            No	            Flat	            11	                    1.99
+6	        60	    Male	        5’10”	90	            No	            Flat	            15.2	                3.47
+7	        22	    Female	        5’0”	42	            No	            Up/down hill	    0.6	                    2.06
+8	        21	    Male	        5’8”	95	            No	            Downhill	        0.1	                    1.99
+9	        21	    Male	        5’8”	95	            No	            Flat (running)	    2.5	                    1.99
+10	        22	    Female	        5’0"	42	            Yes (Fake)	    Flat	            78.52	                N/A
+11	        21	    Male	        5’8”	95	            Yes (Fake)	    Flat	            20.85	                N/A
+12	        57	    Female	        5’2"	91	            Slight	        Flat	            18.55	                7.81
+
+Apple Health data also available in data/ folder: named as export-1.xml for record 1
